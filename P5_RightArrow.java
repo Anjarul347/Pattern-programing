@@ -11,7 +11,7 @@
 
 import java.util.Scanner;
 
-public class P5_LeftLowerUpperTrianglle {
+public class P5_RightArrow {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter any odd vumber of row to obtain proper output: ");

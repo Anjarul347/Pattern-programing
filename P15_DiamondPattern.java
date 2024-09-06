@@ -28,9 +28,7 @@ public class P15_DiamondPattern {
                 System.out.print("* ");
             }
             System.out.println();
-            // if(i==n){
-            //     for(int i=)
-            // }
+            
         }
 
         for(int i=1;i<n;i++){
