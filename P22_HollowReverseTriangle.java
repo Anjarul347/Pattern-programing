@@ -1,10 +1,13 @@
 /*
- *  * * * * *
- *   *     *
- *    *   *
- *     * *
- *      *
- */
+ *  * * * * * *
+ *   *       *
+ *    *     *
+ *     *   * 
+ *      * *
+ *       *
+ 
+ 
+ */     
 
 
 import java.util.Scanner;
@@ -16,7 +19,7 @@ public class P22_HollowReverseTriangle {
 
         int n=sc.nextInt();
 
-        int p=n;
+        int p=((n-3)*2)+1;
         for(int i=1;i<=n;i++){
             for(int j=1;j<i;j++){
                 System.out.print(" ");
